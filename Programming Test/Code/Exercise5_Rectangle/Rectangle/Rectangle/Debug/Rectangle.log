@@ -1,0 +1,7 @@
+﻿  Rectangle.cpp
+c:\users\tyler\desktop\coding practice\programming test\exercise5_rectangle\rectangle\rectangle\rectangle.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\desktop\coding practice\programming test\exercise5_rectangle\rectangle\rectangle\rectangle.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\desktop\coding practice\programming test\exercise5_rectangle\rectangle\rectangle\rectangle.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\desktop\coding practice\programming test\exercise5_rectangle\rectangle\rectangle\rectangle.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Rectangle.vcxproj -> C:\Users\Tyler\Desktop\Coding Practice\Programming Test\Exercise5_Rectangle\Rectangle\Debug\Rectangle.exe
+  Rectangle.vcxproj -> C:\Users\Tyler\Desktop\Coding Practice\Programming Test\Exercise5_Rectangle\Rectangle\Debug\Rectangle.pdb (Partial PDB)
